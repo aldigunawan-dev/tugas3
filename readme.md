@@ -12,7 +12,10 @@ Aplikasi ini dibuat menggunakan react native dan expo, aplikasi dapat dijalankan
     expo start
     
 
-Terdapat package modul yang digunakan dalam aplikasi ini yaitu <a href="https://reactnavigation.org/docs/getting-started"><b>react-navigation</b></a> dan <a href="https://github.com/oblador/react-native-vector-icons"><b>react-native-vector-icons</b></a>
+Package modul yang digunakan dalam aplikasi ini
+- <a href="https://reactnavigation.org/docs/getting-started"><b>react-navigation</b></a>
+- <a href="https://github.com/mui"><b>MUI</b></a>
+- <a href="https://github.com/oblador/react-native-vector-icons"><b>react-native-vector-icons</b></a>
 
 
 <b>Penjelasan Aplikasi:</b>
