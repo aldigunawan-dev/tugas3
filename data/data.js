@@ -1,19 +1,19 @@
 const Jadwal = [
     {
         jadwal_id: "001",
-        bandara_kode_keberangkatan: "BDO",
+        bandara_kode_keberangkatan: "TKG",
         bandara_kode_tujuan: "MLG",
         maskapai_id: "GA",
     },
     {
         jadwal_id: "002",
-        bandara_kode_keberangkatan: "BDO",
+        bandara_kode_keberangkatan: "TKG",
         bandara_kode_tujuan: "MLG",
         maskapai_id: "SA",
     },
     {
         jadwal_id: "003",
-        bandara_kode_keberangkatan: "BDO",
+        bandara_kode_keberangkatan: "TKG",
         bandara_kode_tujuan: "MLG",
         maskapai_id: "BA",
     },
@@ -26,25 +26,25 @@ const Jadwal = [
     {
         jadwal_id: "005",
         bandara_kode_keberangkatan: "PLM",
-        bandara_kode_tujuan: "TKG",
+        bandara_kode_tujuan: "BDO",
         maskapai_id: "BA",
     },
     {
         jadwal_id: "006",
         bandara_kode_keberangkatan: "PLM",
-        bandara_kode_tujuan: "TKG",
+        bandara_kode_tujuan: "BDO",
         maskapai_id: "LA",
     },
     {
         jadwal_id: "007",
         bandara_kode_keberangkatan: "PLM",
-        bandara_kode_tujuan: "TKG",
+        bandara_kode_tujuan: "BDO",
         maskapai_id: "AA",
     },
     {
         jadwal_id: "008",
         bandara_kode_keberangkatan: "PLM",
-        bandara_kode_tujuan: "TKG",
+        bandara_kode_tujuan: "BDO",
         maskapai_id: "CL",
     },
 ]

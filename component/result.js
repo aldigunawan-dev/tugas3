@@ -142,7 +142,7 @@ const resultStyle = StyleSheet.create({
         justifyContent: 'space-between',
         textAlign: 'center',
         fontWeight: 'bold',
-        marginLeft: 30,
+        marginLeft: 10,
         marginRight: 30,
     },
     Image:{
@@ -153,7 +153,7 @@ const resultStyle = StyleSheet.create({
     underText:{
         flexDirection: 'row',
         justifyContent: 'space-between',
-        marginLeft: 30,
+        marginLeft: 10,
         marginRight: 30,
     },
     text:{
